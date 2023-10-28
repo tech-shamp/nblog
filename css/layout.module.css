@@ -1,0 +1,8 @@
+.Layout {
+  @apply grid;
+  grid-template-columns: min-content auto;
+}
+.Content {
+  @apply flex flex-1 py-20 pr-32 pl-16;
+  background-color: #191919;
+}
